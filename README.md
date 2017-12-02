@@ -1,5 +1,5 @@
 # -multiple-sleeping-barbers-problem_inter-process-communication-and-synchronization
-//This shop program will extend the original-so-called 
+//This shop program will extend the original-so-called
 // sleeping-barber problem to a multiple sleeping barbers problem
 // where many customers visit a barbershop and receive a haircut 
 // service from any one available among barbers in the shop.
